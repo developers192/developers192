@@ -2,7 +2,7 @@
 
 I'm [Ria](https://github.com/developers192)！I'm a student. I code random stuffs in my free time.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=developers192&show_icons=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=developers192&show_icons=true&hide_border=true">
 
 
 ![Visitor Count](https://count.getloli.com/get/@developers192)
